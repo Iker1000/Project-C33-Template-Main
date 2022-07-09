@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../PRO-C33-Template-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PRO-C33-Template-main"
+	}
+}
